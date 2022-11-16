@@ -1,0 +1,15 @@
+C:\Users\Ya\source\repos\OOP_HomwWork_07-Task6-FactoryMethod\OOP_HomwWork_07-Task6-FactoryMethod\bin\Debug\net6.0\OOP_HomwWork_07-Task6-FactoryMethod.exe
+C:\Users\Ya\source\repos\OOP_HomwWork_07-Task6-FactoryMethod\OOP_HomwWork_07-Task6-FactoryMethod\bin\Debug\net6.0\OOP_HomwWork_07-Task6-FactoryMethod.deps.json
+C:\Users\Ya\source\repos\OOP_HomwWork_07-Task6-FactoryMethod\OOP_HomwWork_07-Task6-FactoryMethod\bin\Debug\net6.0\OOP_HomwWork_07-Task6-FactoryMethod.runtimeconfig.json
+C:\Users\Ya\source\repos\OOP_HomwWork_07-Task6-FactoryMethod\OOP_HomwWork_07-Task6-FactoryMethod\bin\Debug\net6.0\OOP_HomwWork_07-Task6-FactoryMethod.dll
+C:\Users\Ya\source\repos\OOP_HomwWork_07-Task6-FactoryMethod\OOP_HomwWork_07-Task6-FactoryMethod\bin\Debug\net6.0\OOP_HomwWork_07-Task6-FactoryMethod.pdb
+C:\Users\Ya\source\repos\OOP_HomwWork_07-Task6-FactoryMethod\OOP_HomwWork_07-Task6-FactoryMethod\obj\Debug\net6.0\OOP_HomwWork_07-Task6-FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\Ya\source\repos\OOP_HomwWork_07-Task6-FactoryMethod\OOP_HomwWork_07-Task6-FactoryMethod\obj\Debug\net6.0\OOP_HomwWork_07-Task6-FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ya\source\repos\OOP_HomwWork_07-Task6-FactoryMethod\OOP_HomwWork_07-Task6-FactoryMethod\obj\Debug\net6.0\OOP_HomwWork_07-Task6-FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\Ya\source\repos\OOP_HomwWork_07-Task6-FactoryMethod\OOP_HomwWork_07-Task6-FactoryMethod\obj\Debug\net6.0\OOP_HomwWork_07-Task6-FactoryMethod.AssemblyInfo.cs
+C:\Users\Ya\source\repos\OOP_HomwWork_07-Task6-FactoryMethod\OOP_HomwWork_07-Task6-FactoryMethod\obj\Debug\net6.0\OOP_HomwWork_07-Task6-FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Ya\source\repos\OOP_HomwWork_07-Task6-FactoryMethod\OOP_HomwWork_07-Task6-FactoryMethod\obj\Debug\net6.0\OOP_HomwWork_07-Task6-FactoryMethod.dll
+C:\Users\Ya\source\repos\OOP_HomwWork_07-Task6-FactoryMethod\OOP_HomwWork_07-Task6-FactoryMethod\obj\Debug\net6.0\refint\OOP_HomwWork_07-Task6-FactoryMethod.dll
+C:\Users\Ya\source\repos\OOP_HomwWork_07-Task6-FactoryMethod\OOP_HomwWork_07-Task6-FactoryMethod\obj\Debug\net6.0\OOP_HomwWork_07-Task6-FactoryMethod.pdb
+C:\Users\Ya\source\repos\OOP_HomwWork_07-Task6-FactoryMethod\OOP_HomwWork_07-Task6-FactoryMethod\obj\Debug\net6.0\OOP_HomwWork_07-Task6-FactoryMethod.genruntimeconfig.cache
+C:\Users\Ya\source\repos\OOP_HomwWork_07-Task6-FactoryMethod\OOP_HomwWork_07-Task6-FactoryMethod\obj\Debug\net6.0\ref\OOP_HomwWork_07-Task6-FactoryMethod.dll
