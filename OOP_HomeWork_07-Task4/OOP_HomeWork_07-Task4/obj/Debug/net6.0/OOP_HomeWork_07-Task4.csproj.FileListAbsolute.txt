@@ -1,0 +1,15 @@
+D:\OOP_HomeWork_07-Task4\OOP_HomeWork_07-Task4\bin\Debug\net6.0\OOP_HomeWork_07-Task4.exe
+D:\OOP_HomeWork_07-Task4\OOP_HomeWork_07-Task4\bin\Debug\net6.0\OOP_HomeWork_07-Task4.deps.json
+D:\OOP_HomeWork_07-Task4\OOP_HomeWork_07-Task4\bin\Debug\net6.0\OOP_HomeWork_07-Task4.runtimeconfig.json
+D:\OOP_HomeWork_07-Task4\OOP_HomeWork_07-Task4\bin\Debug\net6.0\OOP_HomeWork_07-Task4.dll
+D:\OOP_HomeWork_07-Task4\OOP_HomeWork_07-Task4\bin\Debug\net6.0\OOP_HomeWork_07-Task4.pdb
+D:\OOP_HomeWork_07-Task4\OOP_HomeWork_07-Task4\obj\Debug\net6.0\OOP_HomeWork_07-Task4.csproj.AssemblyReference.cache
+D:\OOP_HomeWork_07-Task4\OOP_HomeWork_07-Task4\obj\Debug\net6.0\OOP_HomeWork_07-Task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP_HomeWork_07-Task4\OOP_HomeWork_07-Task4\obj\Debug\net6.0\OOP_HomeWork_07-Task4.AssemblyInfoInputs.cache
+D:\OOP_HomeWork_07-Task4\OOP_HomeWork_07-Task4\obj\Debug\net6.0\OOP_HomeWork_07-Task4.AssemblyInfo.cs
+D:\OOP_HomeWork_07-Task4\OOP_HomeWork_07-Task4\obj\Debug\net6.0\OOP_HomeWork_07-Task4.csproj.CoreCompileInputs.cache
+D:\OOP_HomeWork_07-Task4\OOP_HomeWork_07-Task4\obj\Debug\net6.0\OOP_HomeWork_07-Task4.dll
+D:\OOP_HomeWork_07-Task4\OOP_HomeWork_07-Task4\obj\Debug\net6.0\refint\OOP_HomeWork_07-Task4.dll
+D:\OOP_HomeWork_07-Task4\OOP_HomeWork_07-Task4\obj\Debug\net6.0\OOP_HomeWork_07-Task4.pdb
+D:\OOP_HomeWork_07-Task4\OOP_HomeWork_07-Task4\obj\Debug\net6.0\OOP_HomeWork_07-Task4.genruntimeconfig.cache
+D:\OOP_HomeWork_07-Task4\OOP_HomeWork_07-Task4\obj\Debug\net6.0\ref\OOP_HomeWork_07-Task4.dll
