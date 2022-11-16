@@ -1,0 +1,15 @@
+D:\OOP_HomeWork_07-Task6-Facade\OOP_HomeWork_07-Task6-Facade\bin\Debug\net6.0\OOP_HomeWork_07-Task6-Facade.exe
+D:\OOP_HomeWork_07-Task6-Facade\OOP_HomeWork_07-Task6-Facade\bin\Debug\net6.0\OOP_HomeWork_07-Task6-Facade.deps.json
+D:\OOP_HomeWork_07-Task6-Facade\OOP_HomeWork_07-Task6-Facade\bin\Debug\net6.0\OOP_HomeWork_07-Task6-Facade.runtimeconfig.json
+D:\OOP_HomeWork_07-Task6-Facade\OOP_HomeWork_07-Task6-Facade\bin\Debug\net6.0\OOP_HomeWork_07-Task6-Facade.dll
+D:\OOP_HomeWork_07-Task6-Facade\OOP_HomeWork_07-Task6-Facade\bin\Debug\net6.0\OOP_HomeWork_07-Task6-Facade.pdb
+D:\OOP_HomeWork_07-Task6-Facade\OOP_HomeWork_07-Task6-Facade\obj\Debug\net6.0\OOP_HomeWork_07-Task6-Facade.csproj.AssemblyReference.cache
+D:\OOP_HomeWork_07-Task6-Facade\OOP_HomeWork_07-Task6-Facade\obj\Debug\net6.0\OOP_HomeWork_07-Task6-Facade.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP_HomeWork_07-Task6-Facade\OOP_HomeWork_07-Task6-Facade\obj\Debug\net6.0\OOP_HomeWork_07-Task6-Facade.AssemblyInfoInputs.cache
+D:\OOP_HomeWork_07-Task6-Facade\OOP_HomeWork_07-Task6-Facade\obj\Debug\net6.0\OOP_HomeWork_07-Task6-Facade.AssemblyInfo.cs
+D:\OOP_HomeWork_07-Task6-Facade\OOP_HomeWork_07-Task6-Facade\obj\Debug\net6.0\OOP_HomeWork_07-Task6-Facade.csproj.CoreCompileInputs.cache
+D:\OOP_HomeWork_07-Task6-Facade\OOP_HomeWork_07-Task6-Facade\obj\Debug\net6.0\OOP_HomeWork_07-Task6-Facade.dll
+D:\OOP_HomeWork_07-Task6-Facade\OOP_HomeWork_07-Task6-Facade\obj\Debug\net6.0\refint\OOP_HomeWork_07-Task6-Facade.dll
+D:\OOP_HomeWork_07-Task6-Facade\OOP_HomeWork_07-Task6-Facade\obj\Debug\net6.0\OOP_HomeWork_07-Task6-Facade.pdb
+D:\OOP_HomeWork_07-Task6-Facade\OOP_HomeWork_07-Task6-Facade\obj\Debug\net6.0\OOP_HomeWork_07-Task6-Facade.genruntimeconfig.cache
+D:\OOP_HomeWork_07-Task6-Facade\OOP_HomeWork_07-Task6-Facade\obj\Debug\net6.0\ref\OOP_HomeWork_07-Task6-Facade.dll
